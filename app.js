@@ -1,1 +1,2 @@
-$('.counter').html('0');
+var $counter = $('.counter');
+$counter.html('0');
